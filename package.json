@@ -14,7 +14,7 @@
     "rework": "*",
     "rework-npm": "*",
     "sanitize-html": "*",
-    "open": "0.0.5"
+    "open": "6.0.0"
   },
   "devDependencies": {
     "clean-css": "~2.1.8",
